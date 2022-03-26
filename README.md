@@ -1,6 +1,8 @@
 <h1 align="center">allpasswords</h1>
 <p align="center">一个社工密码生成器<br/>喜欢请点赞🌟⭐，不迷路</p>
 
+<p align="center"><img src="https://github.com/zan8in/allpasswords/blob/main/screen.png"/></p>
+
 ### 用法
 
 ```shell
