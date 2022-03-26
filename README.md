@@ -33,6 +33,8 @@ JobNumber[员工号码]：
 生成账号文件: account20220326225658.txt
 ```
 
+### [下载地址](https://github.com/zan8in/allpasswords/releases/tag/v0.1.0)
+
 ### 概述
 
 工作中发现弱口令 屡试不爽，YYDS，但遇到没有弱口令情况怎么办？不要放弃，再博一下，试试定制社工密码，也许会柳暗花明又一村。
